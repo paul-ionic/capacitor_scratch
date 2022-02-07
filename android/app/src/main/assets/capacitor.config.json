@@ -1,0 +1,11 @@
+{
+	"appId": "com.capacitor_scratch.app",
+	"appName": "capacitor_scratch",
+	"bundledWebRuntime": true,
+	"webDir": "www",
+	"plugins": {
+		"SplashScreen": {
+			"launchShowDuration": 0
+		}
+	}
+}
